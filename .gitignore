@@ -4,7 +4,8 @@ target/
 dbt_packages/
 logs/
 
-
+#duckdb
+*.duckdb
 
 #dlt
 **/.dlt/
